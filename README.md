@@ -13,6 +13,6 @@
 <br>
 
 **🌱 I’m currently learning**
-- Learning : HTML, CSS, Javascript, React
+- Learning : Java, HTML, CSS, Javascript
 - Usable : C++, MS-SQL, Lua
 <br>
