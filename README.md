@@ -11,18 +11,20 @@
 
 ## 🛠 Skills
 <b>✏ Learning & Usable</b><br/><br/>
-![JAVA](https://img.shields.io/badge/JAVA-007386?style=flat&logo=Java&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%2B&logoColor=white)
+![JAVA](https://img.shields.io/badge/JAVA-007396?style=flat&logo=Java&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white)<br/>
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=white)<br/>
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)
 ![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=flat&logo=MicrosoftSQLServer&logoColor=white)<br/><br/>
 
-<b>📖 Tools</b><br/><br/>
+<b>📖 Collaboration</b><br/><br/>
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white)
 ![Svn](https://img.shields.io/badge/SVN-809CC9?style=flat&logo=Subversion&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=Jira&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white)
 
 ## 📊 GitHub Analytics
 [![applelime's GitHub stats](https://github-readme-stats.vercel.app/api?username=applelime&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)  
