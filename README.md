@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2&height=200&section=header&text=Jeongmoo&fontSize=50&animation=fadeIn)
 
 ## Hello, I'm Jeongmoo Woo
-- 👩🏻‍💻  <a href="https://www.kakaocorp.com/"><b><i> Kakao </i></b></a> Intern - Data Platform Engineer (2022.06 ~ )<br/><br/>
+- 👩🏻‍💻  <a href="https://www.kakaocorp.com/"><b><i> Kakao </i></b></a> - Data Platform Engineer (2022.06 ~ )<br/><br/>
 - ✏  <a href="https://www.ssafy.com/"><b><i> SAMSUNG SW ACADEMY FOR YOUTH (SSAFY) </i></b></a> 7th (2022.01 ~ 2022.06)<br/><br/>
 - 🎮︎  <a href="https://www.pearlabyss.com/"><b><i> Pearl Abyss </i></b></a> - Game Contents Programmer (2019.07 ~ 2021.10)
    -  Developed <a href="https://www.kr.playblackdesert.com/">Black Desert Online</a> with C++/Lua<br/><br/>
