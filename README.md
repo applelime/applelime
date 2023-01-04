@@ -28,8 +28,8 @@
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white)
 
 ## 📊 GitHub Analytics
-[![applelime's GitHub stats](https://github-readme-stats.vercel.app/api?username=applelime&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=applelime&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)<br/><br/>
+[![applelime's GitHub stats](https://github-readme-stats.vercel.app/api?username=applelime&show_icons=true&theme=dracula&count_private=true)](https://github.com/anuraghazra/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=applelime&layout=compact&theme=dracula&count_private=true)](https://github.com/anuraghazra/github-readme-stats)<br/><br/>
 
 ## 💡 Solved.ac
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jeongmoo)](https://solved.ac/jeongmoo)  
